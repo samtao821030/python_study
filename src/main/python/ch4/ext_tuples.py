@@ -1,2 +1,5 @@
 t=(1,2,3,4)
 print(len(t))
+print(t+(5,6))
+print(t.index(3))
+print(t.count(2))
