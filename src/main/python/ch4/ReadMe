@@ -1,0 +1,2 @@
+number,string,tuple 是 immutable
+list,dictionary,set 是 mutable
