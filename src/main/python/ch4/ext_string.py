@@ -18,3 +18,4 @@ print(array)
 new_line=line+'\n'
 print(new_line)
 print(new_line.rstrip())
+print('ok')
