@@ -1,0 +1,9 @@
+s='sp\xc4m'
+print(s)
+file=open('data1.txt','w',encoding='utf-8')
+file.write(s)
+file.close()
+file=open('data1.txt',encoding='utf-8')
+text=file.read()
+print(text)
+print(text.encode('utf-8'))
