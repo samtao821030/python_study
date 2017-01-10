@@ -15,7 +15,7 @@ def func2():
     count2=6*pow(9,2)*2
     #获取只有3位7的所有数中的7的总和
     count3=4*pow(9,1)*3
-    #获取只有3位7的所有数中的7的总和
+    #获取只有4位7的所有数中的7的总和
     count4=4
 
     totalCount=count1+count2+count3+count4
